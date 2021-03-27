@@ -1,16 +1,20 @@
+📝 [Notes](notes)
+
 ### Hi there 👋
 
-<!--
-**ealvar3z/ealvar3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Father, leader, hacker, and problem solver.
 
-Here are some ideas to get you started:
+My interests are:
 
-- 🔭 I’m currently working on ...
+- linear algebra
+- infosec
+- all things operations (i.e. DevOps, SRE)
+---
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+  - the everlasting landscape of SRE/DevOps
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+  - eax@alvar3z.com
 - ⚡ Fun fact: ...
+  - the `chroot` environment goes as far back as 1979
 -->
