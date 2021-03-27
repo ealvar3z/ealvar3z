@@ -13,20 +13,20 @@ Mastering these make the above roadmap a lot more palatable.
 ## Roadmap
 
 1. Step 1 Revision Control:
-  - Practices:
-    - Basics of revision control
-    - Branching and merging (resolving conflicts)
-    - Working w/ remotes
-    - Branching Models ([trunk based development](https://trunkbaseddevelopment.com))
-    - Branch Policies:
-      - Code reviews (PRs, etc)
-      - CI integrations
-  - Tools:
-    - git
-    - git service providers:
-      - Github
-      - Gitlab
-      - Bitbucket
+    - Practices:
+      - Basics of revision control
+      - Branching and merging (resolving conflicts)
+      - Working w/ remotes
+      - Branching Models ([trunk based development](https://trunkbaseddevelopment.com))
+      - Branch Policies:
+        - Code reviews (PRs, etc)
+        - CI integrations
+    - Tools:
+      - git
+      - git service providers:
+        - Github
+        - Gitlab
+        - Bitbucket
 
 1. Step 2 Cloud:
     - AWS
