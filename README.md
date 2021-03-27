@@ -2,7 +2,10 @@
 
 ### Hi there 👋
 
-whomai: Father, leader, hacker, and problem solver.
+```bash
+~$ whomai: 
+Father, leader, hacker, and problem solver.
+```
 
 My interests are:
 
