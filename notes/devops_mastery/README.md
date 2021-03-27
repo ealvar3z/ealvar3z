@@ -17,11 +17,10 @@ Mastering these make the above roadmap a lot more palatable.
     - Basics of revision control
     - Branching and merging (resolving conflicts)
     - Working w/ remotes
-    - Branching Models ([trunk based development](https://trunkbaseddevelopments.com))
+    - Branching Models ([trunk based development](https://trunkbaseddevelopment.com))
     - Branch Policies:
       - Code reviews (PRs, etc)
       - CI integrations
-
   - Tools:
     - git
     - git service providers:
@@ -55,5 +54,5 @@ Mastering these make the above roadmap a lot more palatable.
     - OS
     - Networking
 
-1. Learn the application stack
+1. Learn your organization's application stack
 
