@@ -3,7 +3,8 @@
 ### Hi there 👋
 
 ```bash
-~$ whomai: 
+~$whomai: 
+
 Father, leader, hacker, and problem solver.
 ```
 
