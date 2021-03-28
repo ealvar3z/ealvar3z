@@ -23,7 +23,7 @@ useradd -g mysql mysql
 
 ## Configuration
 
-### - Set permissions:
+### Set permissions:
 ```bash
 chown -R mysql /usr/local/mysql
 chgrp -R mysql /usr/local/mysql
