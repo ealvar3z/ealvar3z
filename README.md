@@ -5,20 +5,20 @@
 ```bash
 ~$whomai: 
 
-Father, leader, hacker, and problem solver.
+Father, leader, and problem solver.
 ```
 
 My interests are:
 
-- linear algebra
-- infosec
-- all things operations (i.e. DevOps, SRE)
+- linear algebra & calculus
+- cybersecurity and
+- all things operations (i.e. DevOps, DevSecOps. DBA)
 
 ---
 
 - 🌱 I’m currently learning:
-  - the everlasting landscape of SRE/DevOps
+  - the everlasting landscape of SRE/DevOps as it applies to Logistics
 - 📫 How to reach me:
-  - eax@alvar3z.com
+  - @jjrg_dad
 - ⚡ Fun fact:
-  - the `chroot` environment goes as far back as 1979
+  - the `chroot` syscall dates as far back as 1979
