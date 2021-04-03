@@ -16,7 +16,7 @@ My interests are:
 ---
 
 - 🌱 I’m currently learning:
-  - the everlasting landscape of SRE/DevOps as it applies to Logistics
+  - Docker, and k8s FROM a security perspective
 - 📫 How to reach me:
   - @jjrg_dad
 - ⚡ Fun fact:
