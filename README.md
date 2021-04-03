@@ -12,8 +12,7 @@ My interests are:
 
 - linear algebra & calculus
 - cybersecurity and
-- all things operations (i.e. DevOps, DevSecOps. DBA)
-
+- all things operations
 ---
 
 - 🌱 I’m currently learning:
