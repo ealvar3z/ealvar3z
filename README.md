@@ -12,12 +12,11 @@ My interests are:
 
 - linear algebra & calculus
 - cybersecurity and
-- all things operations (i.e. DevOps, DevSecOps. DBA)
-
+- all things operations
 ---
 
 - 🌱 I’m currently learning:
-  - the everlasting landscape of SRE/DevOps as it applies to Logistics
+  - Docker, and k8s FROM a security perspective
 - 📫 How to reach me:
   - @jjrg_dad
 - ⚡ Fun fact:
