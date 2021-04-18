@@ -1,13 +1,11 @@
-# For all noobs who want to know
+## For all noobs who want to know
 
 Ever wondered the semantics behind this fork bomb?
 
 `:() { : | : & }; :`
 
-(1) (2) (3)  (4)
-
-Steps:
-=====
+## Steps:
+========
 1. we call colon
 1. we pipe back to colon
 1. run colon in the `bg`
