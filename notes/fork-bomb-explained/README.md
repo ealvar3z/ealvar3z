@@ -4,11 +4,19 @@ Ever wondered the semantics behind a fork this fork bomb?
 
 `:() { : | : & }; :`
 
-`:()` <= defines the func colon
-`{: | : & }; :` 
+| `:()` <= defines the colon function
+| `{: | : & }; :` 
+|  ^^ ^^^ ^    ^
+| (1) (2) (3)  (4)
 
-> we call colon
-> we pipe stdout to colon and run in the bg
-> then we finally invoke colon
+Steps:
+=====
+1. we call colon
+1. we pipe back to colon
+1. run colon in the `bg`
+1. finally call colon
+
+And this process of putting the `:` function in the background and calling it
+again, creates the fork bomb!
 
 And now you know!
