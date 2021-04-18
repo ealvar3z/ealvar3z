@@ -1,15 +1,10 @@
 # For all noobs who want to know
 
-Ever wondered the semantics behind a fork this fork bomb?
+Ever wondered the semantics behind this fork bomb?
 
 `:() { : | : & }; :`
 
- `:()` <= defines the colon function
-
- `{: | : & }; :` 
- 
- ^^ ^^   ^^   ^^
- (1) (2) (3)  (4)
+(1) (2) (3)  (4)
 
 Steps:
 =====
