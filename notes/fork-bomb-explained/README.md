@@ -4,10 +4,12 @@ Ever wondered the semantics behind a fork this fork bomb?
 
 `:() { : | : & }; :`
 
-| `:()` <= defines the colon function
-| `{: | : & }; :` 
-|  ^^ ^^^ ^    ^
-| (1) (2) (3)  (4)
+ `:()` <= defines the colon function
+
+ `{: | : & }; :` 
+ 
+ ^^ ^^   ^^   ^^
+ (1) (2) (3)  (4)
 
 Steps:
 =====
