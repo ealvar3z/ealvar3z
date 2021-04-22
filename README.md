@@ -1,4 +1,4 @@
-📝 [Notes](notes)
+:card_file_box:[Notes](notes) :memo:[Log](log)
 
 ### Hi there 👋
 
