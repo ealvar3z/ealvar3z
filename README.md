@@ -1,5 +1,8 @@
 :card_file_box:[Notes](notes) :memo:[Log](log)
 
+## Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=ealvar3z/Python)
+
 ### Hi there 👋
 
 ```bash
@@ -21,3 +24,12 @@ My interests are:
   - @jjrg_dad
 - ⚡ Fun fact:
   - the `chroot` syscall dates as far back as 1979
+---
+
+## Most Used Languages
+![Your Repository's
+Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ealvar3z&theme=blue-green)
+---
+
+### Random Joke 
+![Jokes Card](https://readme-jokes.vercel.app/api)
