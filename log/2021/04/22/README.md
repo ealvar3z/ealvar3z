@@ -25,6 +25,6 @@
   One can utilize files for IPC between the two. The current channel can 
   communicate by maintaining a symlink and checking its target where needed.
 
-  Example: .c -> '#current_channel'
+
 
 
