@@ -1,5 +1,3 @@
-:card_file_box:[Notes](notes) :memo:[Log](log)
-
 ### Hi there 👋
 
 ```bash
@@ -12,13 +10,13 @@ My interests are:
 
 - linear algebra & calculus
 - cybersecurity and
-- all things operations
+- puzzles
 ---
 
 - 🌱 I’m currently learning:
-  - Docker, and k8s FROM a security perspective
+  - All things Cloud Native FROM a security perspective
 - 📫 How to reach me:
-  - @jjrg_dad
+  - [\@jjrg_dad](https://twitch.tv/jjrg_dad)
 - ⚡ Fun fact:
   - the `chroot` syscall dates as far back as 1979
 ---
