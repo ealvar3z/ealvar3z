@@ -16,9 +16,9 @@ My interests are:
 - 🌱 I’m currently learning:
   - All things Cloud Native FROM a security perspective
 - 📫 How to reach me:
-  - [\@jjrg_dad](https://twitch.tv/jjrg_dad)
+  - [\@brand_gnubian](https://twitter.com/jjrg_dad)
 - ⚡ Fun fact:
-  - the `chroot` syscall dates as far back as 1979
+  - the `chroot` syscall dates as far back as 1979, and it was actually implemented in 1982 by Bill Joy
 ---
 
 ### Most Used Languages
