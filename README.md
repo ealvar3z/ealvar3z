@@ -23,4 +23,4 @@ My interests are:
 
 ### Most Used Languages
 ![Your Repository's
-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=baguhunta&theme=blue-green)
+Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=baguhanta&theme=blue-green)
