@@ -8,9 +8,9 @@ Father, leader, and problem solver.
 
 My interests are:
 
-- linear algebra & calculus
-- cybersecurity and
-- puzzles
+- problem solving 
+- network infra and security
+- linear algebra & calc
 ---
 
 - 🌱 I’m currently learning:
