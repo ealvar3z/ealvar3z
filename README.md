@@ -14,9 +14,9 @@ My interests are:
 ---
 
 - 🌱 I’m currently learning:
-  - All things Cloud Native FROM a security perspective
+  - AWS Adv. Networking
 - 📫 How to reach me:
-  - [\@brand_gnubian](https://twitter.com/brand_gnubian)
+  - [\@cwby_bbop](https://twitter.com/cwby_bbop
 - ⚡ Fun fact:
   - the `chroot` syscall dates as far back as 1979, and it was actually implemented in 1982 by Bill Joy
 ---
@@ -24,3 +24,6 @@ My interests are:
 ### Most Used Languages
 ![Your Repository's
 Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ealvar3z&theme=blue-green)
+---
+
+[![@ealvar3z's Holopin board](https://holopin.me/ealvar3z)](https://holopin.io/@ealvar3z)
