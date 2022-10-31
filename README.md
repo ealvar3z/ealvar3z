@@ -16,7 +16,7 @@ My interests are:
 - 🌱 I’m currently learning:
   - AWS Adv. Networking
 - 📫 How to reach me:
-  - [\@cwby_bbop](https://twitter.com/cwby_bbop
+  - [\@cwby_bbop](https://twitter.com/cwby_bbop)
 - ⚡ Fun fact:
   - the `chroot` syscall dates as far back as 1979, and it was actually implemented in 1982 by Bill Joy
 ---
