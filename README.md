@@ -23,7 +23,7 @@ My interests are:
 
 ### Most Used Languages
 ![Your Repository's
-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ealvar3z&theme=dark&exclude_repo=blog&hide=html,tex,css)
+Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ealvar3z&theme=dark&exclude_repo=blog&hide=html,tex,css&count_private=true)
 ---
 
 [![@ealvar3z's Holopin board](https://holopin.me/ealvar3z)](https://holopin.io/@ealvar3z)
