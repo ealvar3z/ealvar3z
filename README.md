@@ -22,7 +22,7 @@ My interests are:
 ---
 
 ### Most Used Languages
-[![Your Repository's Stats](https://github-readme-stats-git-masterrstats-rickstaa.vercel.app/api/?username=ealvar3z&theme=dark&exclude_repo=dots,blog,cookbook,perlweeklychallenge-club&hide=html,tex,css,vimscript,makefile,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Repository's Stats](https://github-readme-stats-git-masterrstats-rickstaa.vercel.app/api?(username=ealvar3z&theme=dark&exclude_repo=dots,blog,cookbook,perlweeklychallenge-club&hide=html,tex,css,vimscript,makefile,javascript)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 [![@ealvar3z's Holopin board](https://holopin.me/ealvar3z)](https://holopin.io/@ealvar3z)
