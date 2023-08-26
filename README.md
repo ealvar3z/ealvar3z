@@ -17,7 +17,7 @@ My interests are:
   - AWS Adv. Networking
   - TAK
 - 📫 How to reach me:
-  - [\@cwby_bbop](https://twitter.com/bruno_jenkinz)
+  - [\@bruno_jenkinz](https://twitter.com/bruno_jenkinz)
 - ⚡ Fun fact:
   - the `chroot` syscall dates as far back as 1979, and it was actually implemented in 1982 by Bill Joy
 ---
