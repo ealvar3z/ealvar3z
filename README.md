@@ -9,15 +9,15 @@ Father, leader, and problem solver.
 My interests are:
 
 - problem solving 
-- network infra and security
-- linear algebra & calc
+- network infra, security and administration
 ---
 
 - 🌱 I’m currently learning:
   - AWS Adv. Networking
-  - TAK
+  - Cisco Certification for Wireless Professionals
+  - TAK ecosystem
 - 📫 How to reach me:
-  - [\@bruno_jenkinz](https://twitter.com/bruno_jenkinz)
+  - [\@japhkr](https://twitter.com/japhkr)
 - ⚡ Fun fact:
   - the `chroot` syscall dates as far back as 1979, and it was actually implemented in 1982 by Bill Joy
 ---
