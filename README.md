@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```bash
-~$whomai: 
+~$ whomai
 
 Father, leader, and problem solver.
 ```
