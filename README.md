@@ -14,8 +14,8 @@ My interests are:
 
 - 🌱 I’m currently learning:
   - AWS Adv. Networking
+  - Distributed Systems
   - Cisco Certification for Wireless Professionals
-  - TAK ecosystem
 - 📫 How to reach me:
   - [\@japhkr](https://twitter.com/japhkr)
 - ⚡ Fun fact:
