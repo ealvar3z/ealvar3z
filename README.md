@@ -19,7 +19,7 @@ My interests are:
 - 📫 How to reach me:
   - [\@japhkr](https://twitter.com/japhkr)
 - ⚡ Fun fact:
-  - the `chroot` syscall dates as far back as 1979, and it was actually implemented in 1982 by Bill Joy (who gave the world `vi`)
+  - the `chroot` syscall dates as far back as 1979, and it was implemented in modern form in 1982 by Bill Joy (who gave the world `vi`, `csh`, and the `TCP/IP` stack)
 ---
 
 ### Preferred Technologies
