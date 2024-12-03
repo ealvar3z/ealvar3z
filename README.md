@@ -18,8 +18,8 @@ My interests are:
   - Inferno OS & its Limbo programming language
   - IOT Bug Bounties
 - 📫 How to reach me:
-  - [\@eax_](irc.oftc.net) [#cat-v]
-  - [\@eax_](irc.libera.chat) [#ubuntu-hams, #perl, #go-nuts]
+  - [oftc.net](irc.oftc.net) [/nick: eax_ chan: #cat-v]
+  - [Libera Chat](irc.libera.chat) [/nick: eax_ chan: #ubuntu-hams, #perl, #go-nuts]
 - ⚡ Fun fact:
   - the `chroot` syscall dates as far back as 1979, and it was implemented in modern form in 1982 by Bill Joy (who gave the world `vi`, `csh`, and the `TCP/IP` stack)
 ---
