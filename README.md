@@ -14,9 +14,8 @@ My interests are:
 
 - 🌱 I’m currently learning:
   - Distributed Systems
-  - Plan9 C & 9p protocol
-  - Inferno OS & its Limbo programming language
-  - IOT Bug Bounties
+  - Latin
+  - Greek
 - 📫 How to reach me:
   - [oftc.net](irc.oftc.net):
     - /n -> eax
