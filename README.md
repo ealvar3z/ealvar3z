@@ -28,7 +28,7 @@ My interests are:
 ---
 
 ### Preferred Technologies
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ealvar3z&theme=dark&layout=compact&exclude_repo=dots,dotfiles,blog,cookbook,perlweeklychallenge-club&hide=html,tex,scss,css,vimscript,makefile)
+![Top languages](./profile/top-langs.svg)
 ---
 
 [![@ealvar3z's Holopin board](https://holopin.me/ealvar3z)](https://holopin.io/@ealvar3z)
