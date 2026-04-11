@@ -28,7 +28,7 @@ My interests are:
 ---
 
 ### Preferred Technologies
-[![Your Repository's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ealvar3z&theme=dark&exclude_repo=dots,dotfiles,blog,cookbook,perlweeklychallenge-club&hide=html,tex,scss,css,vimscript,makefile,)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ealvar3z&theme=dark&exclude_repo=dots,dotfiles,blog,cookbook,perlweeklychallenge-club&hide=html,tex,scss,css,vimscript,makefile&show_icons=true)
 ---
 
 [![@ealvar3z's Holopin board](https://holopin.me/ealvar3z)](https://holopin.io/@ealvar3z)
